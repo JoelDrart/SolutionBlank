@@ -1,0 +1,12 @@
+D:\APPS\SolutionBlank\Entidades\bin\Debug\Entidades.dll
+D:\APPS\SolutionBlank\Entidades\bin\Debug\Entidades.pdb
+D:\APPS\SolutionBlank\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\APPS\SolutionBlank\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\APPS\SolutionBlank\Entidades\obj\Debug\Entidades.dll
+D:\APPS\SolutionBlank\Entidades\obj\Debug\Entidades.pdb
+F:\Programacion\Apps\SolutionBlank\Entidades\bin\Debug\Entidades.dll
+F:\Programacion\Apps\SolutionBlank\Entidades\bin\Debug\Entidades.pdb
+F:\Programacion\Apps\SolutionBlank\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Programacion\Apps\SolutionBlank\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Programacion\Apps\SolutionBlank\Entidades\obj\Debug\Entidades.dll
+F:\Programacion\Apps\SolutionBlank\Entidades\obj\Debug\Entidades.pdb
